@@ -25,5 +25,5 @@ Features:
 - Built using ViewModel, Coroutines, and Material 3
 
 ---
-🧠 Author: Saad EL MABROUK
+🧠 Author: El Jirari Alae ddine 
 📅 Year: 2024-2025
